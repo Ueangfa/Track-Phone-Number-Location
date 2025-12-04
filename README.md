@@ -1,6 +1,3 @@
-# Track Phone Number Location
-Python tool for phone number metadata lookup. Provides region, carrier, and time zone details, does not track real-time device location.
-
 # Phone Number Info Lookup (Python)
 
 Track **basic information** about a phone number using Python – such as country/region, carrier, and possible time zone(s) – using the `phonenumbers` library.
@@ -30,9 +27,10 @@ Track **basic information** about a phone number using Python – such as countr
 
 1. Clone the repository:
 ```
-git clone https://github.com/ueangfa/phone-number-info-lookup.git
-cd phone-number-info-lookup
+pip install phonenumbers
 ```
+<img width="995" height="814" alt="1" src="https://github.com/user-attachments/assets/00da5a5c-6d62-4c91-8fb9-da08006df0fe" />
+
 
 2. (Optional)(Create and activate a virtual environment:
 ```bash
