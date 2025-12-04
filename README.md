@@ -30,7 +30,7 @@ Track **basic information** about a phone number using Python – such as countr
 
 1. Clone the repository:
 ```
-git clone https://github.com/<your-username>/phone-number-info-lookup.git
+git clone https://github.com/ueangfa/phone-number-info-lookup.git
 cd phone-number-info-lookup
 ```
 
