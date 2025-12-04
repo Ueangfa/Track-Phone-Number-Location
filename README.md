@@ -1,4 +1,4 @@
-# Phone Number Info Lookup (Python)
+# Phone Number Info Lookup (Python) 👩‍💻🐍
 
 Track **basic information** about a phone number using Python – such as country/region, carrier, and possible time zone(s) – using the `phonenumbers` library.
 
